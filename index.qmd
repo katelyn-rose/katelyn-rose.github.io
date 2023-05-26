@@ -1,11 +1,27 @@
 ---
-title: "katelyn-rose.github.io"
+title: "Katie Miller"
+image: IMG_7215.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 13em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/katie-miller-a3b105223/
+    - text: GitHub
+      href: https://github.com/katelyn-rose
+    - text: Email
+      href: mailto:katelynmiller@ucsb.edu
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
+Current student of environmental science and Living Collections Assistant as the Santa Barbara Botanic Garden.
+---
 
-```{r}
-1 + 1
-```
+# Education
+### University of California Santa Barbara
+##### Environmental Studies (BS)
+
+---
+
