@@ -1,0 +1,15 @@
+---
+title: "Plants are awesome!!"
+---
+### here are some pretty photos:
+
+
+```{r echo = FALSE}
+knitr::include_graphics("images/B3446B16-47EA-42B1-B335-4FDAD29921FE.JPG")
+```
+Common camas (Camassia quamash) in a field of California poppies (Eschscholzia californica)
+
+
+```{r echo = FALSE}
+knitr::include_graphics("images/IMG_1752.jpg")
+```
