@@ -19,3 +19,9 @@ knitr::include_graphics("images/Roll5_133530S000305-R5-158_Original.jpg")
 ```{r echo = FALSE}
 knitr::include_graphics("images/IMG_2858_Original.jpg")
 ```
+
+### See some research projects I've worked on here!
+
+[Torrey Pine Conservation](https://sbbotanicgarden.org/insight/the-torrey-pine-conserving-californias-rare-pine/)
+
+[Plant Establishment Trials](https://sbbotanicgarden.org/insight/stanley-smith-plant-establishment-trials/)
