@@ -1,7 +1,7 @@
 ---
-title: "Plants are awesome!!"
+title: "Plants"
 ---
-### here are some pretty photos:
+### Plants are awesome!! Here are some pretty photos:
 
 
 ```{r echo = FALSE}
