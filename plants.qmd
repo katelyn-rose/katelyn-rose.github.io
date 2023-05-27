@@ -13,3 +13,4 @@ Common camas (Camassia quamash) in a field of California poppies (Eschscholzia c
 ```{r echo = FALSE}
 knitr::include_graphics("images/IMG_1752.jpg")
 ```
+A cardinal catchfly (Silene laciniata) growing on a mossy boulder
