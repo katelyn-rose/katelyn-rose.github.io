@@ -1,8 +1,7 @@
 ---
 title: "Fieldwork"
+subtitle: "My experience includes:"
 ---
-
-## My experience includes:
 
 #### Collecting and cleaning seed 
 ```{r echo = FALSE}
