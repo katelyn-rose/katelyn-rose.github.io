@@ -16,7 +16,8 @@ website:
 format:
   html:
     theme: morph
-    css: styles.css
+    css: mystyle.css
+    mainfont: Comfortaa
     toc: true
 
 editor: visual
