@@ -4,29 +4,29 @@ subtitle: "Native plants are awesome!! Here are some pretty photos."
 ---
 
 
-```{r echo = FALSE}
+```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/B3446B16-47EA-42B1-B335-4FDAD29921FE.JPG")
 ```
 ##### Common camas (Camassia quamash) in a field of California poppies (Eschscholzia californica)
 
 
-```{r echo = FALSE}
+```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/IMG_1754.jpg")
 ```
 ##### Bird's-eye gilia (Gilia tricolor) has blue pollen!
 
 
-```{r echo = FALSE}
+```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/IMG_1758.jpg")
 ```
 ##### Island tree poppy (Dendromecon hardordii) is endemic to several of the California Channel Islands. 
 
-```{r echo = FALSE}
+```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/IMG_1757.jpg")
 ```
 ##### Pink-flowering sumac (Rhus lentii) is from Baja.
 
-```{r echo = FALSE}
+```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/IMG_1752.jpg")
 ```
 ##### A cardinal catchfly (Silene laciniata) growing on a mossy boulder.

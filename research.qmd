@@ -5,14 +5,14 @@ subtitle: "My experience includes:"
 
 
 ### Torrey Pine Conservation
-```{r echo = FALSE}
+```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/IMG_2845_Original.jpg")
 ```
-This project has involved collecting seeds and data on the rarest pine tree in the world; Pinus torreyana ssp. insularis. On top of seed harvesting, I am tasked with collection of location data using GIS in order to track maternal lines. Read more [here!](https://sbbotanicgarden.org/insight/the-torrey-pine-conserving-californias-rare-pine/)
+This project has involved collecting seeds and data on the rarest pine tree in the world; Pinus torreyana ssp. insularis. On top of seed harvesting, I have been tasked with the collection of location data using GIS in order to track maternal lines. Read more [here!](https://sbbotanicgarden.org/insight/the-torrey-pine-conserving-californias-rare-pine/)
 
 ### Plant Establishment Trials
-```{r echo = FALSE}
+```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/Collecting-Data_Stanley-Smith-Plant-Establishment-Trials-1536x2048.jpeg")
 
 ```
-This project is an ongoing attempt to understand how pot size and irrigation level effect the growth of several common plant species. My main tasks are collection, analysis, and reporting of monthly data. Read more [here!](https://sbbotanicgarden.org/insight/stanley-smith-plant-establishment-trials/)
+This project is an ongoing attempt to understand how pot size and irrigation level effect the growth of several common native plant species. My main tasks are collection, analysis, and reporting of monthly data. Read more [here!](https://sbbotanicgarden.org/insight/stanley-smith-plant-establishment-trials/)
