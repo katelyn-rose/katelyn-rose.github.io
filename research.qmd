@@ -10,6 +10,7 @@ knitr::include_graphics("images/IMG_2845_Original.jpg")
 ```
 This project has involved collecting seeds and data on the rarest pine tree in the world; Pinus torreyana ssp. insularis. On top of seed harvesting, I have been tasked with the collection of location data using GIS in order to track maternal lines. Read more [here!](https://sbbotanicgarden.org/insight/the-torrey-pine-conserving-californias-rare-pine/)
 
+---
 ### Plant Establishment Trials
 ```{r echo = FALSE, out.width = 400}
 knitr::include_graphics("images/Collecting-Data_Stanley-Smith-Plant-Establishment-Trials-1536x2048.jpeg")
