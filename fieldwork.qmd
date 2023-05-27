@@ -1,0 +1,22 @@
+---
+title: "Fieldwork"
+---
+
+## My experience includes:
+
+#### Collecting and cleaning seed 
+```{r echo = FALSE}
+knitr::include_graphics("images/IMG_3031_Original.jpg")
+```
+
+
+#### GIS data collection
+```{r echo = FALSE}
+knitr::include_graphics("images/Roll5_133530S000305-R5-158_Original.jpg")
+```
+
+
+#### Collecting and cataloging plant vouchers for herbarium specimens
+```{r echo = FALSE}
+knitr::include_graphics("images/IMG_2858_Original.jpg")
+```

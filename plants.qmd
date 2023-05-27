@@ -1,7 +1,7 @@
 ---
 title: "Plants"
 ---
-### Plants are awesome!! Here are some pretty photos:
+### Native plants are awesome!! Here are some pretty photos:
 
 
 ```{r echo = FALSE}
@@ -11,12 +11,22 @@ Common camas (Camassia quamash) in a field of California poppies (Eschscholzia c
 
 
 ```{r echo = FALSE}
-knitr::include_graphics("images/IMG_1752.jpg")
+knitr::include_graphics("images/IMG_1754.jpg")
 ```
-A cardinal catchfly (Silene laciniata) growing on a mossy boulder
+Bird's-eye gilia (Gilia tricolor) has blue pollen!
 
 
 ```{r echo = FALSE}
-knitr::include_graphics("images/IMG_1754.jpg")
+knitr::include_graphics("images/IMG_1758.jpg")
 ```
-Bird's eye gillia (Gillia tricolor) have blue pollen!
+Island tree poppy (Dendromecon hardordii) is endemic to several of the California Channel Islands. 
+
+```{r echo = FALSE}
+knitr::include_graphics("images/IMG_1757.jpg")
+```
+Pink-flowering sumac (Rhus lentii) is from Baja.
+
+```{r echo = FALSE}
+knitr::include_graphics("images/IMG_1752.jpg")
+```
+A cardinal catchfly (Silene laciniata) growing on a mossy boulder.
